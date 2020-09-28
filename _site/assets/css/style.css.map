@@ -3,7 +3,7 @@
 	"file": "style.css",
 	"sources": [
 		"style.scss",
-		"_sass/main.css"
+		"_sass/main.scss"
 	],
 	"sourcesContent": [
 		"@import \"main\";",
