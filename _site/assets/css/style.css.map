@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"style.scss",
+		"_sass/main.css"
+	],
+	"sourcesContent": [
+		"@import \"main\";",
+		"body {\n  margin: 0% 5%;\n  background-color: azure;\n  color: rgb(52, 175, 52);\n  font-family: 'Courier New', Courier, monospace;\n}\n\nmain #texto {\n  margin: 0% 5% 5%;\n  padding: 0%;\n  width: 100%;\n}\n\n#nome {\n  text-align: center;\n}"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,IAAI,CAAC,EACH,MAAM,EAAE,KAAK,EACb,gBAAgB,EAAE,KAAK,EACvB,KAAK,EAAE,OAAgB,EACvB,WAAW,EAAE,iCAAiC,GAC/C;;AAED,AAAA,IAAI,CAAC,MAAM,CAAC,EACV,MAAM,EAAE,QAAQ,EAChB,OAAO,EAAE,EAAE,EACX,KAAK,EAAE,IAAI,GACZ;;AAED,AAAA,KAAK,CAAC,EACJ,UAAU,EAAE,MAAM,GACnB"
+}
